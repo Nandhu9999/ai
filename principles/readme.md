@@ -32,18 +32,35 @@ Existential Quantifier: ∃ (for some)
 >     - F[a/x]
 > - Equality
 >     - Brother(John) = Smith
->
+
 > 1. Universal Generalization
->   - if P(c) is TRUE for any arbitrary element C, then it can be represented as
+>   - eg. P(c): a byte contains 8 bits
+>   - ∀x P(x): all bytes contain 8 bits
 ```math
 $$ P(c) \over ∀x P(x) $$ 
 ```
-> 2. Universal Instantiation
->
-> 3. Existential Instantiation
->
-> 4. Existential Introduction 
->
+
+> 2. Universal Instantiation (Elimination)
+>   - eg. ∀x P(x): everyone likes ice cream
+>   - P(c): john likes ice cream
+```math
+$$ ∀x P(x) \over P(c) $$ 
+```
+
+> 3. Existential Instantiation (Elimination)
+>   - Can be applied only ONCE to replace existential sentence 
+>   
+```math
+$$ ∃x P(x) \over P(c) $$ 
+```
+
+> 4. Existential Introduction (Generalization)
+>   - eg. Pinky got good marks in maths
+>   - therefore, someone got good marks.
+```math
+$$ P(c) \over ∃x P(x) $$ 
+```
+
 > FOL to CNF (Conjunctive Normal Form)
 > 
 > Resolution
