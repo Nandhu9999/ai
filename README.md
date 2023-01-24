@@ -7,3 +7,5 @@
     - Proposition
     - FOL
     - FOL to CNF
+    - Resolution
+    - Semantic
