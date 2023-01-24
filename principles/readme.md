@@ -26,6 +26,8 @@ Hill Climbing
 
 Game playing MinMax
 
+Alpha Beta Pruning
+
 Constraint Satisfaction
 
 > <ins>**Propositional Logic**</ins>
