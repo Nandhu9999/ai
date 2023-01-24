@@ -17,8 +17,18 @@
 > | F | T |  T  |
 > | T | F |  F  |
 > | T | T |  T  |
-
+> 
+> - P → Q
+>     - Converse: Q → P
+>     - Inverse: ~P → ~Q
+>     - Contrapositive: ~Q → ~P
+>     
 > FOL
+>
+> Universal Quantifier: ∀ (for all)
+> Existential Quantifier: ∃ (for some)
+> - Substitution
+>     - 
 > 
 > FOL to CNF (Conjunctive Normal Form)
 > 
