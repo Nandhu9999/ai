@@ -25,10 +25,13 @@
 >     
 > FOL
 >
-> Universal Quantifier: ∀ (for all)
-> Existential Quantifier: ∃ (for some)
-> -Substitution
+Universal Quantifier: ∀ (for all)
+Existential Quantifier: ∃ (for some)
+>
+> - Substitution
 >     - F[a/x]
+> - Equality
+>     - Brother(John) = Smith
 > 
 > FOL to CNF (Conjunctive Normal Form)
 > 
