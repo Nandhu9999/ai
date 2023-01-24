@@ -6,10 +6,16 @@
 |------------------|-----------------|
 | BFS | best first search |
 | DFS | A* search |
-|  | |
-|  | |
-|  | |
-|  | |
+| Uniform Cost | |
+| DLS | |
+| IDDFS(goes back to src after depth increase) | |
+| Bidirectional Search (two ways one from src. to goal, another from goal to src.)| |
+
+Hill Climbing
+1. Simple(similar to uniform cost)
+2. Steepest Ascent(similar to best first search)
+3. Stochastic(one random node, then decide from there)
+
 
 Game playing MinMax
 
