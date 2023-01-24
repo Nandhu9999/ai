@@ -54,7 +54,7 @@ $$ ∀x P(x) \over P(c) $$
 $$ ∃x P(x) \over P(c) $$ 
 ```
 
-> 4. Existential Introduction (Generalization)
+> 4. Existential Generalization
 >   - eg. Pinky got good marks in maths
 >   - therefore, someone got good marks.
 ```math
