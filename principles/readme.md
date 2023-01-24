@@ -10,12 +10,14 @@
 > - always true : tautology
 > - always false : contradiction
 > - ∧ND | O∨* | IM→ | B⇔ |
+>
 > | p | q | p→q |
-> | ----------- |
+> |---|---|-----|
 > | f | f |  t  |
 > | f | t |  t  |
 > | t | f |  f  |
 > | t | t |  t  |
+
 > FOL
 > 
 > FOL to CNF (Conjunctive Normal Form)
