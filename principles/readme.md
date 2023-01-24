@@ -87,6 +87,7 @@ $$ P(c) \over ∃x P(x) $$
 > - knowledge representation technique used for propositional logic
 > - labelled directed graph
 > - allows us to perform inheritance reasoning as members of a class will inherit all properties of a superclass.
+
 | advantages | disadvantages |
 |------------|---------------|
 | convey meaning in transparent manner | links can only have binary relations |
@@ -95,10 +96,10 @@ $$ P(c) \over ∃x P(x) $$
 
 > Frames Representation
 > - record like structure consisting of collection of attributes to describe an entity
-| slot | slot values |
-|------|-------------|
+> - slot and slot values
 > - slot filter knowledge
 > - used in applications including Natural language processing and machine visions
+
 | advantages | disadvantages |
 |------------|---------------|
 | flexible | inference mechanism not smoothly proceeded |
