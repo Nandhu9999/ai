@@ -1,8 +1,10 @@
 # Principles of AI
 
-> A* algo
-> Game playing MinMax
-> Constraint Satisfaction
+A* algo
+
+Game playing MinMax
+
+Constraint Satisfaction
 
 > <ins>**Propositional Logic**</ins>
 > - declarative sentence(t or f)
