@@ -32,7 +32,15 @@ Existential Quantifier: ∃ (for some)
 >     - F[a/x]
 > - Equality
 >     - Brother(John) = Smith
-> 
+>
+> 1. Universal Generalization
+>
+> 2. Universal Instantiation
+>
+> 3. Existential Instantiation
+>
+> 4. Existential Introduction 
+>
 > FOL to CNF (Conjunctive Normal Form)
 > 
 > Resolution
