@@ -4,7 +4,7 @@
 > Game playing MinMax
 > Constraint Satisfaction
 
-> **Propositional Logic**
+> <ins>**_Propositional Logic**</ins>
 > - declarative sentence(t or f)
 > - consists of objects, functions, logical connectives
 > - always true : tautology
