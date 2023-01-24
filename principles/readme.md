@@ -71,6 +71,7 @@ $$ P(c) \over ∃x P(x) $$
 >> 2. Move all ¬ inward
 >> 3. Standardize the variables apart (when necessary)
 >> 4. Move all quantifiers to the front
+>
 > Resolution
 > 
 >
