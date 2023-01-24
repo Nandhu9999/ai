@@ -1,6 +1,15 @@
 # Principles of AI
 
-A* algo
+- Search Algorithms
+
+| uninformed/blind | informed search |
+|------------------|-----------------|
+| BFS | best first search |
+| DFS | A* search |
+|  | |
+|  | |
+|  | |
+|  | |
 
 Game playing MinMax
 
