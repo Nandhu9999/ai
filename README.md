@@ -6,6 +6,6 @@
     - Constraint Satisfaction
     - Proposition
     - FOL
-    - FOL to CNF
+    - FOL to CNF (Conjunctive Normal Form)
     - Resolution
-    - Semantic
+    - Semantic Networks
