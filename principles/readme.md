@@ -27,8 +27,8 @@
 >
 > Universal Quantifier: ∀ (for all)
 > Existential Quantifier: ∃ (for some)
-> - Substitution
->     - 
+> -Substitution
+>     - F[a/x]
 > 
 > FOL to CNF (Conjunctive Normal Form)
 > 
