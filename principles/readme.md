@@ -4,7 +4,7 @@
 > Game playing MinMax
 > Constraint Satisfaction
 
-> <ins>**_Propositional Logic**</ins>
+> <ins>**Propositional Logic**</ins>
 > - declarative sentence(t or f)
 > - consists of objects, functions, logical connectives
 > - always true : tautology
@@ -23,7 +23,7 @@
 >     - Inverse: ~P → ~Q
 >     - Contrapositive: ~Q → ~P
 >     
-> **First Order Logic**
+> <ins>**First Order Logic**</ins>
 >
 Universal Quantifier: ∀ (for all)
 Existential Quantifier: ∃ (for some)
@@ -61,11 +61,19 @@ $$ P(c) \over ∃x P(x) $$
 
 > - UNIFICATION
 >     - to make expressions look identical, depends on substitution
+>
 
-> **FOL to CNF (Conjunctive Normal Form)**
-> 
+> <ins>**FOL to CNF (Conjunctive Normal Form)**</ins>
+> - Why? convenient when Quantifiers infront
+> - these formulas are *prenex normal form*
+> - Steps to Convert to CNF
+>> 1. Eliminate → and ⇔
+>> 2. Move all ¬ inward
+>> 3. Standardize the variables apart (when necessary)
+>> 4. Move all quantifiers to the front
 > Resolution
 > 
+>
 > Semantic Networks
 
 > Frames Representation
