@@ -30,6 +30,9 @@ Game playing MinMax
 Alpha Beta Pruning
 
 Constraint Satisfaction
+- Set of Variables
+- Domain
+- Constraints
 
 > <ins>**Propositional Logic**</ins>
 > - declarative sentence(t or f)
