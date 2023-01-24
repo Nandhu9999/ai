@@ -23,6 +23,7 @@ Hill Climbing
 2. Steepest Ascent(similar to best first search)
 3. Stochastic(one random node, then decide from there)
 
+## Genetic
 
 Game playing MinMax
 
