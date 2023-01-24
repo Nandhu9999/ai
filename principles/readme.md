@@ -61,6 +61,9 @@ $$ ∃x P(x) \over P(c) $$
 $$ P(c) \over ∃x P(x) $$ 
 ```
 
+> - UNIFICATION
+>     - to make expressions look identical
+
 > FOL to CNF (Conjunctive Normal Form)
 > 
 > Resolution
