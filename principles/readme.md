@@ -34,7 +34,10 @@ Existential Quantifier: ∃ (for some)
 >     - Brother(John) = Smith
 >
 > 1. Universal Generalization
->
+>   - if P(c) is TRUE for any arbitrary element C, then it can be represented as
+```math
+$$ P(c) \over ∀x P(x) $$ 
+```
 > 2. Universal Instantiation
 >
 > 3. Existential Instantiation
