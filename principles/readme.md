@@ -11,6 +11,13 @@
 | IDDFS(goes back to src after depth increase) | |
 | Bidirectional Search (two ways one from src. to goal, another from goal to src.)| |
 
+A* Algo
+- f(n) = g(n) + h(n)
+    - f(n) => total cost
+    - g(n) => path cost
+    - h(n) => heuristic value 
+    - basically (all the path costs from src) + (heuristic value of node)
+
 Hill Climbing
 1. Simple(similar to uniform cost)
 2. Steepest Ascent(similar to best first search)
