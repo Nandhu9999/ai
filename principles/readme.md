@@ -4,7 +4,7 @@
 > Game playing MinMax
 > Constraint Satisfaction
 
-> Proposition
+> **Propositional Logic**
 > - declarative sentence(t or f)
 > - consists of objects, functions, logical connectives
 > - always true : tautology
@@ -23,15 +23,13 @@
 >     - Inverse: ~P → ~Q
 >     - Contrapositive: ~Q → ~P
 >     
-> FOL
+> **First Order Logic**
 >
 Universal Quantifier: ∀ (for all)
 Existential Quantifier: ∃ (for some)
 >
-> - Substitution
->     - F[a/x]
-> - Equality
->     - Brother(John) = Smith
+> - Substitution: F[a/x]
+> - Equality: Brother(John) = Smith
 
 > 1. Universal Generalization
 >   - eg. P(c): a byte contains 8 bits
@@ -62,10 +60,13 @@ $$ P(c) \over ∃x P(x) $$
 ```
 
 > - UNIFICATION
->     - to make expressions look identical
+>     - to make expressions look identical, depends on substitution
 
-> FOL to CNF (Conjunctive Normal Form)
+> **FOL to CNF (Conjunctive Normal Form)**
 > 
 > Resolution
 > 
 > Semantic Networks
+
+> Frames Representation
+> 
