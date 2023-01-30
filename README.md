@@ -1,5 +1,11 @@
 # my notes on ai
 
+- Machine Learning
+    - Linear Regression
+    - Decision Theory
+    - K means clustering
+    - Principal Component Analysis
+
 - Principles of Artificial Intelligence
     - A* algo
     - Game playing MinMax
