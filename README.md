@@ -15,3 +15,4 @@
     - FOL to CNF (Conjunctive Normal Form)
     - Resolution
     - Semantic Networks
+    - ## Neural Networks and Deep Learning 
