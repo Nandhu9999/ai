@@ -52,6 +52,13 @@ def ELU_activation(size, alpha, color):
   yvalues = np.maximum(alpha*np.exp(xvalues)-1,xvalues)
   plt.plot(xvalues,np.array(yvalues), color=color)
 
+def Softmax_activation(lst):
+  arr = []
+  denom = 0
+  for el in lst: denom += (np.e ^ el)
+  for el in lst: arr.append( np.e^el / denom )
+  return arr
+
 axis_stuff()
 # Linear_activation(1, color="red")
 # Binary_activation(10, color="blue")
