@@ -59,6 +59,11 @@ def Softmax_activation(lst):
   for el in lst: arr.append( np.e^el / denom )
   return arr
 
+def Softplus_activation(lst):
+  arr = []
+  for x in lst: arr.append( np.log(1+np.e^x ) )
+  return arr
+
 axis_stuff()
 # Linear_activation(1, color="red")
 # Binary_activation(10, color="blue")
